@@ -1,0 +1,33 @@
+body {
+  background-color: #f9ffff;
+}
+
+.navbar-brand{
+  font-size: 25px;
+}
+
+.nav-item {
+  margin-right: 8px;
+  font-size: 17px;
+}
+
+.gambarku {
+  width: 200px;
+  margin-bottom: 25px;
+}
+
+.utama {
+  height: 650px;
+}
+
+.utama h1 {
+  font-family: 'Pacifico', cursive;
+  letter-spacing: 2px;
+  margin-bottom: 15px;
+}
+
+
+.icon-sos{
+  margin-right: 25px;
+}
+
